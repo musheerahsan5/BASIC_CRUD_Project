@@ -1,0 +1,6 @@
+C:\Users\Patel\source\repos\Basic_CRUD_Project\BASIC_CRUD_DAL\bin\Debug\BASIC_CRUD_DAL.dll
+C:\Users\Patel\source\repos\Basic_CRUD_Project\BASIC_CRUD_DAL\bin\Debug\BASIC_CRUD_DAL.pdb
+C:\Users\Patel\source\repos\Basic_CRUD_Project\BASIC_CRUD_DAL\obj\Debug\BASIC_CRUD_DAL.csprojAssemblyReference.cache
+C:\Users\Patel\source\repos\Basic_CRUD_Project\BASIC_CRUD_DAL\obj\Debug\BASIC_CRUD_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Patel\source\repos\Basic_CRUD_Project\BASIC_CRUD_DAL\obj\Debug\BASIC_CRUD_DAL.dll
+C:\Users\Patel\source\repos\Basic_CRUD_Project\BASIC_CRUD_DAL\obj\Debug\BASIC_CRUD_DAL.pdb
